@@ -8,6 +8,7 @@ This is the Trackbar in the images that you can control the brighness
 ![image](https://user-images.githubusercontent.com/117570211/235334296-a52a7aef-7c77-414d-8ca4-b078d30041da.png)
 
 About the Video 
+file:///home/namhai18/Videos/Screencasts/Screencast%20from%2030-04-2023%2010:44:56.webm
 
 
 And we can press 'q' to exit  
